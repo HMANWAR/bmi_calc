@@ -1,0 +1,20 @@
+.nav{
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+.nav:link{
+    text-decoration: none;
+}
+.a:hover{
+    background-color: #f5aaaa;
+    box-shadow: 0 0 10px rgb(255, 213, 213);
+    transform: scale(23);
+
+}
+.container{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+    color: white;
+}
